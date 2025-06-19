@@ -22,7 +22,7 @@ The bot monitors chart data and executes trades (buy/sell) based on basic heuris
 ### 1. Clone this Repo
 
 ```bash
-git clone https://github.com/topsecretagent007/rug.fun-bot.git
+git clone https://github.com/topsecretagent007/rugs.fun-trading-bot.git
 cd rugfun-bot
 ```
 
